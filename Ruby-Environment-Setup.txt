@@ -1,0 +1,85 @@
+Ruby-Environment-Prep
+Purpose
+The purpose of this artifact is to lay out the steps required to prepare your environment in 
+order to begin the process of learning the Ruby Programming Language.
+
+Prerequisites:
+An internet connected computer running: 
+A Mac running OSX, 
+A Windows XP or better 
+A Linux PC running Ubuntu 10.x or better.
+
+ 
+Git
+Git-Hub
+Heroku
+
+
+
+Books on Ruby
+http://blog.mediumequalsmessage.com/6-best-learning-ruby-books
+
+Terminal
+
+
+Heroku
+Heroku is the leading open language cloud application platform and supports Ruby, 
+Java, Python, Clojure, Scala, Node.js. and custom language buildpacks.
+
+Heroku is a cloud platform as a service (PaaS) supporting several programming languages. 
+Heroku is owned by Salesforce.com.[1] Heroku, one of the first cloud platforms, has been 
+in development since June 2007, when it supported only the Ruby programming language, but has 
+since added support for Java, Node.js, Scala, Clojure and Python and (undocumented) PHP and Perl. 
+The base operating system is Debian or, in the newest stack, the Debian-based Ubuntu.[2]
+
+
+http://en.wikipedia.org/wiki/Heroku
+
+https://get.heroku.com/ 
+
+Git
+Git allows groups of people to work on the same documents (often code) at the same time, and without 
+stepping on each other's toes. It's a distributed version control system.
+
+Git is a free and open source distributed version control system designed to handle everything 
+from small to very large projects with speed and efficiency. 
+
+Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses 
+SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, 
+convenient staging areas, and multiple workflows. 
+
+http://git-scm.com/ 
+
+Learn Git
+Learn Git in your browser free with Try Git at http://try.github.io/levels/1/challenges/1 
+
+Other Resources
+
+https://www.ruby-toolbox.com/ 
+
+http://rubysource.com/ 
+
+http://rubysource.com/from-nothing-to-ruby/
+
+http://rubysource.com/just-do-it-learn-sinatra-i/
+
+http://rubysource.com/just-do-it-learn-sinatra-ii-2/
+
+http://rubysource.com/just-do-it-learn-sinatra-iii/
+
+http://rubysource.com/just-do-it-learn-sinatra-iv/
+
+Cucumber
+http://railscasts.com/episodes/155-beginning-with-cucumber 
+
+It's Not About The Nail
+http://www.youtube.com/watch?v=-4EDhdAHrOg  
+
+Best Ruby IDE - RubyMain from JetBrains - great learning env with all the tools built in that you'd expect.
+
+Ruby Development kit: https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
+Be sure to install in directory / path with NO spaces
+includes Debug GEM 
+follow installation directions at link and it will become available to all your Rubys
+
+JRuby - Felix's favorite Ruby interpreter
