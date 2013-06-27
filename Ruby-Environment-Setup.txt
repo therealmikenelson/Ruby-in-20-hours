@@ -6,13 +6,30 @@ order to begin the process of learning the Ruby Programming Language.
 Prerequisites:
 An internet connected computer running: 
 A Mac running OSX, 
-A Windows XP or better 
+A Windows machine XP or better 
 A Linux PC running Ubuntu 10.x or better.
 
+
+Items you will need setup inorder actually be able to use and learn Ruby.
  
 Git
 Git-Hub
 Heroku
+
+Git
+Git allows groups of people to work on the same documents (often code) at the same time, and without 
+stepping on each other's toes. It's a distributed version control system.
+
+Git is a free and open source distributed version control system designed to handle everything 
+from small to very large projects with speed and efficiency. 
+
+Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses 
+SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, 
+convenient staging areas, and multiple workflows. 
+
+http://git-scm.com/ 
+
+
 
 
 
@@ -37,18 +54,6 @@ http://en.wikipedia.org/wiki/Heroku
 
 https://get.heroku.com/ 
 
-Git
-Git allows groups of people to work on the same documents (often code) at the same time, and without 
-stepping on each other's toes. It's a distributed version control system.
-
-Git is a free and open source distributed version control system designed to handle everything 
-from small to very large projects with speed and efficiency. 
-
-Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses 
-SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, 
-convenient staging areas, and multiple workflows. 
-
-http://git-scm.com/ 
 
 Learn Git
 Learn Git in your browser free with Try Git at http://try.github.io/levels/1/challenges/1 
